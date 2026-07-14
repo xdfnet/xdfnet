@@ -11,7 +11,6 @@
 
 围绕 Claude Code / Codex 生态，做面向中文用户的本地化与增强：
 
-- [claude-desktop-zh-cn](https://github.com/xdfnet/claude-desktop-zh-cn) — Claude Desktop 简体中文补丁
 - [iRelay](https://github.com/xdfnet/iRelay) — Codex ↔ DeepSeek 本机中转服务
 - [iVox](https://github.com/xdfnet/iVox) — 让 Claude Code 和 Codex 开口说话、听懂你说话
 - [iWC](https://github.com/xdfnet/iWC) — 通过个人微信 ilink 连接 Claude Code
