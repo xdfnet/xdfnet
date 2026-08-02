@@ -11,7 +11,7 @@
 
 围绕 Claude Code / Codex 生态，做面向中文用户的本地化与增强：
 
-- [iRelay](https://github.com/xdfnet/iRelay) — Codex ↔ DeepSeek 本机中转服务
+- [iCodex](https://github.com/xdfnet/iCodex) — Codex 直连 DeepSeek 配置 + 白名单补丁工具
 - [iVox](https://github.com/xdfnet/iVox) — 让 Claude Code 和 Codex 开口说话、听懂你说话
 - [iWC](https://github.com/xdfnet/iWC) — 通过个人微信 ilink 连接 Claude Code
 
@@ -19,7 +19,7 @@
 
 - [iMoni](https://github.com/xdfnet/iMoni) — 菜单栏系统监控：AI 服务延迟、网络、内存、CPU/GPU
 - [iClash](https://github.com/xdfnet/iClash) — 基于 Mihomo 内核的 macOS 菜单栏代理
-- [iAgent](https://github.com/xdfnet/iAgent) — macOS 菜单栏本地语音助手
+- [Samantha](https://github.com/xdfnet/Samantha) — 菜单栏本地语音助手，说话驱动 Claude Code
 - [iDict](https://github.com/xdfnet/iDict) — 菜单栏取词翻译（Cmd+D）
 - [iM](https://github.com/xdfnet/iM) — 极简 Markdown 阅读器
 
