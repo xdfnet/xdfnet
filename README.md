@@ -21,7 +21,7 @@
 - [iClash](https://github.com/xdfnet/iClash) — 基于 Mihomo 内核的 macOS 菜单栏代理
 - [Samantha](https://github.com/xdfnet/Samantha) — 菜单栏本地语音助手，说话驱动 Claude Code
 - [iDict](https://github.com/xdfnet/iDict) — 菜单栏取词翻译（Cmd+D）
-- [iM](https://github.com/xdfnet/iM) — 极简 Markdown 阅读器
+- [iLook](https://github.com/xdfnet/iLook) — 优雅的 macOS 文件阅读器（空格 Quick Look 预览）
 
 ## 联系方式
 
